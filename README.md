@@ -10,3 +10,6 @@ exercicio
 # Quais as diferenças entre um *framework* e uma *biblioteca*?
 
 Um *framework* possui várias funcionalidades prontas, e normalmente já possuem um fluxo de trabalho ou estrutura a serem seguidos. É algo bem mais abstrato do que uma *biblioteca*. Isso realmente confunde muitas pessoas. ... Aliás, um *framework* pode ser feito a partir de uma coleção de padrões, APIs e até mesmo de *bibliotecas*.
+
+
+Referencias: https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
